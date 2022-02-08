@@ -1,0 +1,12 @@
+<stud_ClassName>
+	<student>
+    	<cne>﻿CNE</cne>
+    	<dateofbirth>DateOfBirth</dateofbirth>
+    	<firstname>FirstName</firstname>
+    	<lastname>LastName</lastname>
+    	<filiere>ClassName</filiere>
+    	<phone>Phone</phone>
+    	<email>Email</email>
+	</student>
+
+</stud_ClassName>

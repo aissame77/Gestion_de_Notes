@@ -1,0 +1,35 @@
+<prof_GSTR>
+	<prof>
+    	<cin>N74869031</cin>
+    	<firstname>Midhat</firstname>
+    	<lastname>Mukhtar</lastname>
+    	<dept_attachement>GSTR</dept_attachement>
+    	<phone>+(212) 208-25544</phone>
+    	<email>Midhat.Mukhtar@gmail.com</email>
+	</prof>
+	<prof>
+    	<cin>N28392607</cin>
+    	<firstname>Rifat</firstname>
+    	<lastname>Wafi</lastname>
+    	<dept_attachement>GSTR</dept_attachement>
+    	<phone>+(212) 373-39910</phone>
+    	<email>Rifat.Wafi@gmail.com</email>
+	</prof>
+	<prof>
+    	<cin>N76391560</cin>
+    	<firstname>Hibat Allah</firstname>
+    	<lastname>Wajid </lastname>
+    	<dept_attachement>GSTR</dept_attachement>
+    	<phone>+(212) 357-59600</phone>
+    	<email>Hibat Allah.Wajid @gmail.com</email>
+	</prof>
+	<prof>
+    	<cin>N33262297</cin>
+    	<firstname>Rabih</firstname>
+    	<lastname>Fazli</lastname>
+    	<dept_attachement>GSTR</dept_attachement>
+    	<phone>+(212) 763-13672</phone>
+    	<email>Rabih.Fazli@gmail.com</email>
+	</prof>
+
+</prof_GSTR>

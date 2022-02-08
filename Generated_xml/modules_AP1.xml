@@ -1,0 +1,70 @@
+<mod_AP1>
+	<module>
+	<name>algebre</name>
+	<elementname1>algebre1</elementname1>
+	<elementname2>algebre2</elementname2>
+	<elementname3>algebre3</elementname3>
+	<elementname4>algebre4</elementname4>
+	<dept_attachement>AP1</dept_attachement>
+</module>
+	<module>
+	<name>analyse</name>
+	<elementname1>analyse1</elementname1>
+	<elementname2>analyse2</elementname2>
+	<elementname3>analyse3</elementname3>
+	<dept_attachement>AP1</dept_attachement>
+</module>
+	<module>
+	<name>physique</name>
+	<elementname1>electrocinetique</elementname1>
+	<elementname2>intrumentation1</elementname2>
+	<elementname3>og</elementname3>
+	<elementname4>op</elementname4>
+	<elementname5>electromagnetisme</elementname5>
+	<elementname6>electronique</elementname6>
+	<elementname7>themro</elementname7>
+	<dept_attachement>AP1</dept_attachement>
+</module>
+	<module>
+	<name>mecanique</name>
+	<elementname1>mecanique du point</elementname1>
+	<elementname2>mechanique industrielle</elementname2>
+	<dept_attachement>AP1</dept_attachement>
+</module>
+	<module>
+	<name>chimie</name>
+	<elementname1>atomistique</elementname1>
+	<elementname2>chimie organique</elementname2>
+	<dept_attachement>AP1</dept_attachement>
+</module>
+	<module>
+	<name>lc</name>
+	<elementname1>francais</elementname1>
+	<elementname2>ao1</elementname2>
+	<dept_attachement>AP1</dept_attachement>
+</module>
+	<module>
+	<name>info</name>
+	<elementname1>cf</elementname1>
+	<elementname2>os</elementname2>
+	<elementname3>ab et sn</elementname3>
+	<elementname4>algo </elementname4>
+	<elementname5>complex</elementname5>
+	<elementname6>prog C</elementname6>
+	<dept_attachement>AP1</dept_attachement>
+</module>
+	<module>
+	<name>lc</name>
+	<elementname1>fr</elementname1>
+	<elementname2>ang</elementname2>
+	<elementname3>sport</elementname3>
+	<dept_attachement>AP1</dept_attachement>
+</module>
+	<module>
+	<name>math applique</name>
+	<elementname1>proba</elementname1>
+	<elementname2>analyse numerique</elementname2>
+	<dept_attachement>AP1</dept_attachement>
+</module>
+
+</mod_AP1>

@@ -1,0 +1,59 @@
+<prof_GINF>
+	<prof>
+    	<cin>N30301831</cin>
+    	<firstname>Lutfur Rahman</firstname>
+    	<lastname>Yacine</lastname>
+    	<dept_attachement>GINF</dept_attachement>
+    	<phone>+(212) 533-80521</phone>
+    	<email>Lutfur Rahman.Yacine@gmail.com</email>
+	</prof>
+	<prof>
+    	<cin>N41827424</cin>
+    	<firstname>Najm</firstname>
+    	<lastname>Abbad</lastname>
+    	<dept_attachement>GINF</dept_attachement>
+    	<phone>+(212) 634-95068</phone>
+    	<email>Najm.Abbad@gmail.com</email>
+	</prof>
+	<prof>
+    	<cin>N11777165</cin>
+    	<firstname>Abdul Malik</firstname>
+    	<lastname>Abdur Rab</lastname>
+    	<dept_attachement>GINF</dept_attachement>
+    	<phone>+(212) 008-18886</phone>
+    	<email>Abdul Malik.Abdur Rab@gmail.com</email>
+	</prof>
+	<prof>
+    	<cin>N23796005</cin>
+    	<firstname>Fathallah</firstname>
+    	<lastname>Mahdi </lastname>
+    	<dept_attachement>GINF</dept_attachement>
+    	<phone>+(212) 589-96835</phone>
+    	<email>Fathallah.Mahdi @gmail.com</email>
+	</prof>
+	<prof>
+    	<cin>N84185029</cin>
+    	<firstname>Muhsin</firstname>
+    	<lastname>Khalifah</lastname>
+    	<dept_attachement>GINF</dept_attachement>
+    	<phone>+(212) 194-69419</phone>
+    	<email>Muhsin.Khalifah@gmail.com</email>
+	</prof>
+	<prof>
+    	<cin>N17936049</cin>
+    	<firstname>Zahir al-Din</firstname>
+    	<lastname>Haydar</lastname>
+    	<dept_attachement>GINF</dept_attachement>
+    	<phone>+(212) 501-61348</phone>
+    	<email>Zahir al-Din.Haydar@gmail.com</email>
+	</prof>
+	<prof>
+    	<cin>N23455836</cin>
+    	<firstname>Hani </firstname>
+    	<lastname>Tawfik</lastname>
+    	<dept_attachement>GINF</dept_attachement>
+    	<phone>+(212) 329-73062</phone>
+    	<email>Hani .Tawfik@gmail.com</email>
+	</prof>
+
+</prof_GINF>

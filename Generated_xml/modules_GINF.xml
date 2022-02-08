@@ -1,0 +1,80 @@
+<mod_GINF>
+	<module>
+	<name>math applique</name>
+	<elementname1>proba</elementname1>
+	<elementname2>analyse numerique</elementname2>
+	<elementname3>AP2</elementname3>
+	<dept_attachement>GINF</dept_attachement>
+</module>
+	<module>
+	<name>mpi</name>
+	<elementname1>an</elementname1>
+	<elementname2>op</elementname2>
+	<elementname3>st</elementname3>
+	<dept_attachement>GINF</dept_attachement>
+</module>
+	<module>
+	<name>signal</name>
+	<elementname1>ts</elementname1>
+	<elementname2>pb</elementname2>
+	<dept_attachement>GINF</dept_attachement>
+</module>
+	<module>
+	<name>electonique</name>
+	<elementname1>ean</elementname1>
+	<elementname2>en</elementname2>
+	<dept_attachement>GINF</dept_attachement>
+</module>
+	<module>
+	<name>prog</name>
+	<elementname1>structc</elementname1>
+	<elementname2>php</elementname2>
+	<elementname3>cpp</elementname3>
+	<elementname4>php5</elementname4>
+	<dept_attachement>GINF</dept_attachement>
+</module>
+	<module>
+	<name>bd</name>
+	<elementname1>bdr</elementname1>
+	<elementname2>cfr</elementname2>
+	<elementname3>model bd</elementname3>
+	<elementname4>manip bd</elementname4>
+	<elementname5>plsql</elementname5>
+	<dept_attachement>GINF</dept_attachement>
+</module>
+	<module>
+	<name>langage</name>
+	<elementname1>method pp</elementname1>
+	<elementname2>dev p</elementname2>
+	<elementname3>ang esp</elementname3>
+	<dept_attachement>GINF</dept_attachement>
+</module>
+	<module>
+	<name>tg ro</name>
+	<elementname1>rech op</elementname1>
+	<elementname2>theo gr</elementname2>
+	<dept_attachement>GINF</dept_attachement>
+</module>
+	<module>
+	<name>reseau</name>
+	<elementname1>prot addr</elementname1>
+	<elementname2>tech res</elementname2>
+	<elementname3>tp res</elementname3>
+	<dept_attachement>GINF</dept_attachement>
+</module>
+	<module>
+	<name>archi lin</name>
+	<elementname1>micro proc</elementname1>
+	<elementname2>linux</elementname2>
+	<elementname3>tp ass</elementname3>
+	<dept_attachement>GINF</dept_attachement>
+</module>
+	<module>
+	<name>manage</name>
+	<elementname1>gest entr</elementname1>
+	<elementname2>compta</elementname2>
+	<elementname3>eco</elementname3>
+	<dept_attachement>GINF</dept_attachement>
+</module>
+
+</mod_GINF>

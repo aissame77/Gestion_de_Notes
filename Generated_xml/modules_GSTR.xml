@@ -1,0 +1,76 @@
+<mod_GSTR>
+	<module>
+	<name>mpi</name>
+	<elementname1>an</elementname1>
+	<elementname2>op</elementname2>
+	<elementname3>st</elementname3>
+	<dept_attachement>GSTR</dept_attachement>
+</module>
+	<module>
+	<name>signal</name>
+	<elementname1>ts</elementname1>
+	<elementname2>pb</elementname2>
+	<dept_attachement>GSTR</dept_attachement>
+</module>
+	<module>
+	<name>electonique</name>
+	<elementname1>ean</elementname1>
+	<elementname2>en</elementname2>
+	<dept_attachement>GSTR</dept_attachement>
+</module>
+	<module>
+	<name>telecom</name>
+	<elementname1>onde elec</elementname1>
+	<elementname2>ligne trans</elementname2>
+	<elementname3>com analog</elementname3>
+	<elementname4>theo info code</elementname4>
+	<dept_attachement>GSTR</dept_attachement>
+</module>
+	<module>
+	<name>auto </name>
+	<elementname1>auto lin</elementname1>
+	<elementname2>concept fond</elementname2>
+	<dept_attachement>GSTR</dept_attachement>
+</module>
+	<module>
+	<name>lang com</name>
+	<elementname1>dev per</elementname1>
+	<elementname2>meth pjt</elementname2>
+	<elementname3>ang esp</elementname3>
+	<dept_attachement>GSTR</dept_attachement>
+</module>
+	<module>
+	<name>archi lin</name>
+	<elementname1>micro proc</elementname1>
+	<elementname2>linux</elementname2>
+	<elementname3>tp elec</elementname3>
+	<dept_attachement>GSTR</dept_attachement>
+</module>
+	<module>
+	<name>info</name>
+	<elementname1>poo java</elementname1>
+	<elementname2>bd uml</elementname2>
+	<dept_attachement>GSTR</dept_attachement>
+</module>
+	<module>
+	<name>tg ro</name>
+	<elementname1>rech op</elementname1>
+	<elementname2>theo gr</elementname2>
+	<dept_attachement>GSTR</dept_attachement>
+</module>
+	<module>
+	<name>reseaux</name>
+	<elementname1>prot addr</elementname1>
+	<elementname2>tech reseaux</elementname2>
+	<elementname3>tp res</elementname3>
+	<dept_attachement>GSTR</dept_attachement>
+</module>
+	<module>
+	<name>manage</name>
+	<elementname1>gest entr</elementname1>
+	<elementname2>compta</elementname2>
+	<elementname3>eco</elementname3>
+	<dept_attachement>GSTR</dept_attachement>
+</module>
+
+</mod_GSTR>

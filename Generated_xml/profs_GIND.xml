@@ -1,0 +1,67 @@
+<prof_GIND>
+	<prof>
+    	<cin>N41037075</cin>
+    	<firstname>Abbad</firstname>
+    	<lastname>Imran</lastname>
+    	<dept_attachement>GIND</dept_attachement>
+    	<phone>+(212) 354-22874</phone>
+    	<email>Abbad.Imran@gmail.com</email>
+	</prof>
+	<prof>
+    	<cin>N69627549</cin>
+    	<firstname>Abdul</firstname>
+    	<lastname>Kamil</lastname>
+    	<dept_attachement>GIND</dept_attachement>
+    	<phone>+(212) 672-56142</phone>
+    	<email>Abdul.Kamil@gmail.com</email>
+	</prof>
+	<prof>
+    	<cin>N24611778</cin>
+    	<firstname>Hidayatullah</firstname>
+    	<lastname>Khalfan</lastname>
+    	<dept_attachement>GIND</dept_attachement>
+    	<phone>+(212) 742-82968</phone>
+    	<email>Hidayatullah.Khalfan@gmail.com</email>
+	</prof>
+	<prof>
+    	<cin>N28049607</cin>
+    	<firstname>Murad</firstname>
+    	<lastname>Hurairah</lastname>
+    	<dept_attachement>GIND</dept_attachement>
+    	<phone>+(212) 847-13388</phone>
+    	<email>Murad.Hurairah@gmail.com</email>
+	</prof>
+	<prof>
+    	<cin>N19939214</cin>
+    	<firstname>Najib</firstname>
+    	<lastname>Abdur Razzaq</lastname>
+    	<dept_attachement>GIND</dept_attachement>
+    	<phone>+(212) 875-22709</phone>
+    	<email>Najib.Abdur Razzaq@gmail.com</email>
+	</prof>
+	<prof>
+    	<cin>N72895812</cin>
+    	<firstname>Najm</firstname>
+    	<lastname>Ziauddin</lastname>
+    	<dept_attachement>GIND</dept_attachement>
+    	<phone>+(212) 032-44314</phone>
+    	<email>Najm.Ziauddin@gmail.com</email>
+	</prof>
+	<prof>
+    	<cin>N91615659</cin>
+    	<firstname>Fadel</firstname>
+    	<lastname>Mahfuz </lastname>
+    	<dept_attachement>GIND</dept_attachement>
+    	<phone>+(212) 846-96199</phone>
+    	<email>Fadel.Mahfuz @gmail.com</email>
+	</prof>
+	<prof>
+    	<cin>N85168282</cin>
+    	<firstname>Murtaza</firstname>
+    	<lastname>Sarmad</lastname>
+    	<dept_attachement>GIND</dept_attachement>
+    	<phone>+(212) 679-64354</phone>
+    	<email>Murtaza.Sarmad@gmail.com</email>
+	</prof>
+
+</prof_GIND>

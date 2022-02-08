@@ -1,0 +1,63 @@
+algebre,algebre1,algebre2,algebre3,algebre4,AP1
+analyse,analyse1,analyse2,analyse3,AP1
+physique,electrocinetique,intrumentation1,og,op,electromagnetisme,electronique,themro,AP1
+mecanique,mecanique du point,mechanique industrielle,AP1
+chimie,atomistique,chimie organique,AP1
+lc,francais,ao1,AP1
+info,cf,os,ab et sn,algo ,complex,prog C,AP1
+lc,fr,ang,sport,AP1
+math applique,proba,analyse numerique,AP1
+algebre,algebre1,algebre2,algebre3,algebre4,AP2
+analyse,analyse1,analyse2,analyse3,AP2
+physique,electrocinetique,intrumentation1,og,op,electromagnetisme,electronique,themro,AP2
+mecanique,mecanique du point,mechanique industrielle,AP2
+chimie,atomistique,chimie organique,AP2
+lc,francais,ao1,AP2
+info,cf,os,ab et sn,algo ,complex,prog C,AP2
+lc,fr,ang,sport,AP2
+math applique,proba,analyse numerique,AP2,GINF
+mpi,an,op,st,GINF
+signal,ts,pb,GINF
+electonique,ean,en,GINF
+prog,structc,php,cpp,php5,GINF
+bd,bdr,cfr,model bd,manip bd,plsql,GINF
+langage,method pp,dev p,ang esp,GINF
+tg ro,rech op,theo gr,GINF
+reseau,prot addr,tech res,tp res,GINF
+archi lin,micro proc,linux,tp ass,GINF
+manage,gest entr,compta,eco,GINF
+stat sig,stat app,ts,GIND
+electonique,ean,en,GIND
+materiaux,sience mat,dess ind,GIND
+info,bdr,tech web,GIND
+auto,electro,auto lin,GIND
+manage,gest entr,compta,eco,GIND
+res mat ,rdm,tp rdm,GIND
+fluide et struct,struct vib,mech fluide,GIND
+mac ind,mac ter,mac hyd,inst elec,GIND
+sim metro,capt et metro,tp electro,GIND
+sys info,sys info,sim sys ind lab,GIND
+lang com,dev per,meth pjt,ang esp,GIND
+mpi,an,op,st,GSTR
+signal,ts,pb,GSTR
+electonique,ean,en,GSTR
+telecom,onde elec,ligne trans,com analog,theo info code,GSTR
+auto ,auto lin,concept fond,GSTR
+lang com,dev per,meth pjt,ang esp,GSTR
+archi lin,micro proc,linux,tp elec,GSTR
+info,poo java,bd uml,GSTR
+tg ro,rech op,theo gr,GSTR
+reseaux,prot addr,tech reseaux,tp res,GSTR
+manage,gest entr,compta,eco,GSTR
+stat sig,stat app,trait sig,G3EI
+electonique,ean,en,G3EI
+materiaux,sience mat,dess ind,G3EI
+info ,bdr,tech web,G3EI
+auto electro,electrocinetique,auto lin,G3EI
+manage,gest entr,compta,eco,G3EI
+thermo,mech fluide,thermo appli,G3EI
+electrotech,sim sys ind lab,electro,tp electro,G3EI
+mac ind,mac ter,mac hyd,inst elec,G3EI
+themrique,trans ter,metrologie et mes,G3EI
+energy ,ecologie ind,energie,conduite de proj,G3EI
+lang com,dev per,meth pjt,ang esp,G3EI

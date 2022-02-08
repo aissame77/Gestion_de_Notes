@@ -1,0 +1,462 @@
+<stud_GINF2>
+	<student>
+    	<cne>JY847782</cne>
+    	<dateofbirth>5/11/1998</dateofbirth>
+    	<firstname>AGNAOU</firstname>
+    	<lastname>MOHAMED</lastname>
+    	<filiere>GINF2</filiere>
+    	<phone>+(212) 880-33575</phone>
+    	<email>mohamed.agnaou@gmail.com</email>
+	</student>
+	<student>
+    	<cne>BM918669</cne>
+    	<dateofbirth>5/10/1998</dateofbirth>
+    	<firstname>AL ACHKAR</firstname>
+    	<lastname>BADR</lastname>
+    	<filiere>GINF2</filiere>
+    	<phone>+(212) 889-11142</phone>
+    	<email>badr.alachkar@gmail.com</email>
+	</student>
+	<student>
+    	<cne>MF654993</cne>
+    	<dateofbirth>5/24/1998</dateofbirth>
+    	<firstname>AMARA</firstname>
+    	<lastname>ASMAE</lastname>
+    	<filiere>GINF2</filiere>
+    	<phone>+(212) 032-59320</phone>
+    	<email>asmae.amara@gmail.com</email>
+	</student>
+	<student>
+    	<cne>UL427332</cne>
+    	<dateofbirth>12/7/1998</dateofbirth>
+    	<firstname>AOUAD</firstname>
+    	<lastname>SAMI</lastname>
+    	<filiere>GINF2</filiere>
+    	<phone>+(212) 495-37385</phone>
+    	<email>asmae.amara@gmail.com</email>
+	</student>
+	<student>
+    	<cne>TH892041</cne>
+    	<dateofbirth>1/7/1999</dateofbirth>
+    	<firstname>BAHID</firstname>
+    	<lastname>RIHAB</lastname>
+    	<filiere>GINF2</filiere>
+    	<phone>+(212) 631-92886</phone>
+    	<email>asmae.amara@gmail.com</email>
+	</student>
+	<student>
+    	<cne>ZJ148180</cne>
+    	<dateofbirth>5/28/1999</dateofbirth>
+    	<firstname>BARRO</firstname>
+    	<lastname>CHEICKNA</lastname>
+    	<filiere>GINF2</filiere>
+    	<phone>+(212) 377-76867</phone>
+    	<email>asmae.amara@gmail.com</email>
+	</student>
+	<student>
+    	<cne>QM730899</cne>
+    	<dateofbirth>2/6/1998</dateofbirth>
+    	<firstname>BEN TARKI</firstname>
+    	<lastname>NOUHAILA</lastname>
+    	<filiere>GINF2</filiere>
+    	<phone>+(212) 035-74564</phone>
+    	<email>asmae.amara@gmail.com</email>
+	</student>
+	<student>
+    	<cne>XN923575</cne>
+    	<dateofbirth>5/13/1999</dateofbirth>
+    	<firstname>BENKHANOUS</firstname>
+    	<lastname>SALAHEDDINE</lastname>
+    	<filiere>GINF2</filiere>
+    	<phone>+(212) 441-27507</phone>
+    	<email>asmae.amara@gmail.com</email>
+	</student>
+	<student>
+    	<cne>BY923279</cne>
+    	<dateofbirth>1/19/1998</dateofbirth>
+    	<firstname>BENTALEB</firstname>
+    	<lastname>CHAYMAE</lastname>
+    	<filiere>GINF2</filiere>
+    	<phone>+(212) 303-11135</phone>
+    	<email>asmae.amara@gmail.com</email>
+	</student>
+	<student>
+    	<cne>FB937566</cne>
+    	<dateofbirth>9/2/1998</dateofbirth>
+    	<firstname>BOUGUEDDACH</firstname>
+    	<lastname>MOHAMED OUSS</lastname>
+    	<filiere>GINF2</filiere>
+    	<phone>+(212) 501-44599</phone>
+    	<email>asmae.amara@gmail.com</email>
+	</student>
+	<student>
+    	<cne>QY756879</cne>
+    	<dateofbirth>6/6/1999</dateofbirth>
+    	<firstname>BOUHCAIN</firstname>
+    	<lastname>ALI</lastname>
+    	<filiere>GINF2</filiere>
+    	<phone>+(212) 429-89740</phone>
+    	<email>asmae.amara@gmail.com</email>
+	</student>
+	<student>
+    	<cne>UH143126</cne>
+    	<dateofbirth>12/4/1998</dateofbirth>
+    	<firstname>BOUKHALLAD</firstname>
+    	<lastname>AISSAME</lastname>
+    	<filiere>GINF2</filiere>
+    	<phone>+(212) 892-94266</phone>
+    	<email>asmae.amara@gmail.com</email>
+	</student>
+	<student>
+    	<cne>BX568184</cne>
+    	<dateofbirth>6/5/1998</dateofbirth>
+    	<firstname>CHIHAL</firstname>
+    	<lastname>AYA</lastname>
+    	<filiere>GINF2</filiere>
+    	<phone>+(212) 197-04937</phone>
+    	<email>asmae.amara@gmail.com</email>
+	</student>
+	<student>
+    	<cne>UX416282</cne>
+    	<dateofbirth>4/24/1999</dateofbirth>
+    	<firstname>DABDOUBI</firstname>
+    	<lastname>AYMANE</lastname>
+    	<filiere>GINF2</filiere>
+    	<phone>+(212) 492-81266</phone>
+    	<email>aymane.dabdoubi@gmail.com</email>
+	</student>
+	<student>
+    	<cne>XX602402</cne>
+    	<dateofbirth>3/11/1999</dateofbirth>
+    	<firstname>DKHISSI</firstname>
+    	<lastname>AYOUB</lastname>
+    	<filiere>GINF2</filiere>
+    	<phone>+(212) 181-73214</phone>
+    	<email>ayoub.dkhissi@gmail.com</email>
+	</student>
+	<student>
+    	<cne>YR388650</cne>
+    	<dateofbirth>3/12/1999</dateofbirth>
+    	<firstname>DRAOUI</firstname>
+    	<lastname>BILAL</lastname>
+    	<filiere>GINF2</filiere>
+    	<phone>+(212) 659-78329</phone>
+    	<email>bilal.draoui@gmail.com</email>
+	</student>
+	<student>
+    	<cne>CJ539597</cne>
+    	<dateofbirth>1/22/1998</dateofbirth>
+    	<firstname>EL GHAZOUANI</firstname>
+    	<lastname>NIEMA</lastname>
+    	<filiere>GINF2</filiere>
+    	<phone>+(212) 142-70484</phone>
+    	<email>niema.elghazouani@gmail.com</email>
+	</student>
+	<student>
+    	<cne>UH445833</cne>
+    	<dateofbirth>8/15/1998</dateofbirth>
+    	<firstname>EL HAOUSSI</firstname>
+    	<lastname>AYOUB</lastname>
+    	<filiere>GINF2</filiere>
+    	<phone>+(212) 238-45573</phone>
+    	<email>ayoub.elhaoussi@gmail.com</email>
+	</student>
+	<student>
+    	<cne>CE161242</cne>
+    	<dateofbirth>9/10/1998</dateofbirth>
+    	<firstname>EL HASSANI</firstname>
+    	<lastname>SAAD</lastname>
+    	<filiere>GINF2</filiere>
+    	<phone>+(212) 367-26098</phone>
+    	<email>saad.elhassani@gmail.com</email>
+	</student>
+	<student>
+    	<cne>XC279958</cne>
+    	<dateofbirth>12/11/1998</dateofbirth>
+    	<firstname>EL HOUB</firstname>
+    	<lastname>YOUNESSE</lastname>
+    	<filiere>GINF2</filiere>
+    	<phone>+(212) 183-30015</phone>
+    	<email>younesse.elhoub@gmail.com</email>
+	</student>
+	<student>
+    	<cne>IA885320</cne>
+    	<dateofbirth>8/16/1998</dateofbirth>
+    	<firstname>EL KOUARI</firstname>
+    	<lastname>SAAD</lastname>
+    	<filiere>GINF2</filiere>
+    	<phone>+(212) 504-42835</phone>
+    	<email>saad.elkouari@gmail.com</email>
+	</student>
+	<student>
+    	<cne>XB634668</cne>
+    	<dateofbirth>3/29/1998</dateofbirth>
+    	<firstname>EL MAAKOUL</firstname>
+    	<lastname>YASSINE</lastname>
+    	<filiere>GINF2</filiere>
+    	<phone>+(212) 171-24054</phone>
+    	<email>yassine.elmaakoul@gmail.com</email>
+	</student>
+	<student>
+    	<cne>AY696688</cne>
+    	<dateofbirth>3/3/1998</dateofbirth>
+    	<firstname>EL MOUTTAKI</firstname>
+    	<lastname>ADNAN</lastname>
+    	<filiere>GINF2</filiere>
+    	<phone>+(212) 513-12037</phone>
+    	<email>adnan.elmouttaki@gmail.com</email>
+	</student>
+	<student>
+    	<cne>YQ773929</cne>
+    	<dateofbirth>4/5/1998</dateofbirth>
+    	<firstname>EN-NABOUCH</firstname>
+    	<lastname>MOHAMED</lastname>
+    	<filiere>GINF2</filiere>
+    	<phone>+(212) 301-60063</phone>
+    	<email>mohamed.en-nabouch@gmail.com</email>
+	</student>
+	<student>
+    	<cne>YL601210</cne>
+    	<dateofbirth>11/26/1998</dateofbirth>
+    	<firstname>EN-NIARI</firstname>
+    	<lastname>AMR</lastname>
+    	<filiere>GINF2</filiere>
+    	<phone>+(212) 034-77190</phone>
+    	<email>amr.en-niari@gmail.com</email>
+	</student>
+	<student>
+    	<cne>BJ470435</cne>
+    	<dateofbirth>6/21/1999</dateofbirth>
+    	<firstname>ES-SAHRI</firstname>
+    	<lastname>RAJA</lastname>
+    	<filiere>GINF2</filiere>
+    	<phone>+(212) 296-01913</phone>
+    	<email>raja.es-sahri@gmail.com</email>
+	</student>
+	<student>
+    	<cne>BI878048</cne>
+    	<dateofbirth>12/30/1998</dateofbirth>
+    	<firstname>FARES</firstname>
+    	<lastname>AKRAM</lastname>
+    	<filiere>GINF2</filiere>
+    	<phone>+(212) 498-10938</phone>
+    	<email>akram.fares@gmail.com</email>
+	</student>
+	<student>
+    	<cne>CJ623195</cne>
+    	<dateofbirth>7/19/1998</dateofbirth>
+    	<firstname>GHAZI</firstname>
+    	<lastname>CHAIMAE</lastname>
+    	<filiere>GINF2</filiere>
+    	<phone>+(212) 412-24322</phone>
+    	<email>chaimae.ghazi@gmail.com</email>
+	</student>
+	<student>
+    	<cne>HW487758</cne>
+    	<dateofbirth>12/16/1998</dateofbirth>
+    	<firstname>HAKMAOUI</firstname>
+    	<lastname>MOHAMED</lastname>
+    	<filiere>GINF2</filiere>
+    	<phone>+(212) 086-72792</phone>
+    	<email>mohamed.hakmaoui@gmail.com</email>
+	</student>
+	<student>
+    	<cne>KA346437</cne>
+    	<dateofbirth>10/20/1998</dateofbirth>
+    	<firstname>HASSISS</firstname>
+    	<lastname>YOUSSEF</lastname>
+    	<filiere>GINF2</filiere>
+    	<phone>+(212) 553-63982</phone>
+    	<email>youssef.hassiss@gmail.com</email>
+	</student>
+	<student>
+    	<cne>GX626672</cne>
+    	<dateofbirth>9/28/1998</dateofbirth>
+    	<firstname>HSSASSA</firstname>
+    	<lastname>NAILA</lastname>
+    	<filiere>GINF2</filiere>
+    	<phone>+(212) 007-57419</phone>
+    	<email>naila.hssassa@gmail.com</email>
+	</student>
+	<student>
+    	<cne>FM791463</cne>
+    	<dateofbirth>4/14/1998</dateofbirth>
+    	<firstname>KAMOUN</firstname>
+    	<lastname>AMINE</lastname>
+    	<filiere>GINF2</filiere>
+    	<phone>+(212) 598-72760</phone>
+    	<email>amine.kamoun@gmail.com</email>
+	</student>
+	<student>
+    	<cne>TI520826</cne>
+    	<dateofbirth>5/15/1999</dateofbirth>
+    	<firstname>KASSRIOUI</firstname>
+    	<lastname>ABOUBAKR</lastname>
+    	<filiere>GINF2</filiere>
+    	<phone>+(212) 582-22637</phone>
+    	<email>aboubakr.kassrioui@gmail.com</email>
+	</student>
+	<student>
+    	<cne>KC550357</cne>
+    	<dateofbirth>3/20/1998</dateofbirth>
+    	<firstname>KHARCHICH</firstname>
+    	<lastname>MOUAAD</lastname>
+    	<filiere>GINF2</filiere>
+    	<phone>+(212) 880-23602</phone>
+    	<email>mouaad.kharchich@gmail.com</email>
+	</student>
+	<student>
+    	<cne>QW553618</cne>
+    	<dateofbirth>1/4/1998</dateofbirth>
+    	<firstname>KHETTAB</firstname>
+    	<lastname>ZIYAD</lastname>
+    	<filiere>GINF2</filiere>
+    	<phone>+(212) 355-46968</phone>
+    	<email>ziyad.khettab@gmail.com</email>
+	</student>
+	<student>
+    	<cne>KG530622</cne>
+    	<dateofbirth>11/13/1998</dateofbirth>
+    	<firstname>KSSIRI</firstname>
+    	<lastname>MOHAMED AKRA</lastname>
+    	<filiere>GINF2</filiere>
+    	<phone>+(212) 579-80437</phone>
+    	<email>mohamed akra.kssiri@gmail.com</email>
+	</student>
+	<student>
+    	<cne>KR659288</cne>
+    	<dateofbirth>2/14/1999</dateofbirth>
+    	<firstname>MAIROU</firstname>
+    	<lastname>HAOUA AMAMAT</lastname>
+    	<filiere>GINF2</filiere>
+    	<phone>+(212) 047-59287</phone>
+    	<email>haoua amamat.mairou@gmail.com</email>
+	</student>
+	<student>
+    	<cne>IM480391</cne>
+    	<dateofbirth>4/5/1999</dateofbirth>
+    	<firstname>MALLOUK</firstname>
+    	<lastname>AMINA</lastname>
+    	<filiere>GINF2</filiere>
+    	<phone>+(212) 222-57899</phone>
+    	<email>amina.mallouk@gmail.com</email>
+	</student>
+	<student>
+    	<cne>BD724280</cne>
+    	<dateofbirth>7/19/1998</dateofbirth>
+    	<firstname>MERROUN</firstname>
+    	<lastname>HANANE</lastname>
+    	<filiere>GINF2</filiere>
+    	<phone>+(212) 726-42315</phone>
+    	<email>hanane.merroun@gmail.com</email>
+	</student>
+	<student>
+    	<cne>DG512325</cne>
+    	<dateofbirth>5/2/1998</dateofbirth>
+    	<firstname>NGOSSANGA</firstname>
+    	<lastname>BLEK GEDEON</lastname>
+    	<filiere>GINF2</filiere>
+    	<phone>+(212) 477-15342</phone>
+    	<email>blek gedeon.ngossanga@gmail.com</email>
+	</student>
+	<student>
+    	<cne>TT273988</cne>
+    	<dateofbirth>11/22/1998</dateofbirth>
+    	<firstname>OMARI</firstname>
+    	<lastname>WALID</lastname>
+    	<filiere>GINF2</filiere>
+    	<phone>+(212) 121-48610</phone>
+    	<email>walid.omari@gmail.com</email>
+	</student>
+	<student>
+    	<cne>JX626349</cne>
+    	<dateofbirth>8/25/1998</dateofbirth>
+    	<firstname>OUAHLI</firstname>
+    	<lastname>ALI</lastname>
+    	<filiere>GINF2</filiere>
+    	<phone>+(212) 842-26609</phone>
+    	<email>ali.ouahli@gmail.com</email>
+	</student>
+	<student>
+    	<cne>KG182080</cne>
+    	<dateofbirth>7/27/1998</dateofbirth>
+    	<firstname>OUAKIL</firstname>
+    	<lastname>MOUAD</lastname>
+    	<filiere>GINF2</filiere>
+    	<phone>+(212) 783-33400</phone>
+    	<email>mouad.ouakil@gmail.com</email>
+	</student>
+	<student>
+    	<cne>GA293525</cne>
+    	<dateofbirth>12/5/1998</dateofbirth>
+    	<firstname>OUANGRE</firstname>
+    	<lastname>MICHEL</lastname>
+    	<filiere>GINF2</filiere>
+    	<phone>+(212) 064-82984</phone>
+    	<email>michel.ouangre@gmail.com</email>
+	</student>
+	<student>
+    	<cne>XD302291</cne>
+    	<dateofbirth>6/17/1999</dateofbirth>
+    	<firstname>OULAD SINE</firstname>
+    	<lastname>SALOUA</lastname>
+    	<filiere>GINF2</filiere>
+    	<phone>+(212) 306-70758</phone>
+    	<email>saloua.ouladsine@gmail.com</email>
+	</student>
+	<student>
+    	<cne>SU415816</cne>
+    	<dateofbirth>11/17/1998</dateofbirth>
+    	<firstname>RABAH</firstname>
+    	<lastname>HAFSSA</lastname>
+    	<filiere>GINF2</filiere>
+    	<phone>+(212) 718-65487</phone>
+    	<email>hafssa.rabah@gmail.com</email>
+	</student>
+	<student>
+    	<cne>TE852226</cne>
+    	<dateofbirth>1/28/1999</dateofbirth>
+    	<firstname>RAMY</firstname>
+    	<lastname>AYMAN</lastname>
+    	<filiere>GINF2</filiere>
+    	<phone>+(212) 045-65691</phone>
+    	<email>ayman.ramy@gmail.com</email>
+	</student>
+	<student>
+    	<cne>QO307333</cne>
+    	<dateofbirth>5/23/1998</dateofbirth>
+    	<firstname>SAIDI</firstname>
+    	<lastname>CHAIMAA</lastname>
+    	<filiere>GINF2</filiere>
+    	<phone>+(212) 178-22901</phone>
+    	<email>chaimaa.saidi@gmail.com</email>
+	</student>
+	<student>
+    	<cne>MF320247</cne>
+    	<dateofbirth>2/26/1998</dateofbirth>
+    	<firstname>SANA</firstname>
+    	<lastname>LOOKMAN OSSAM</lastname>
+    	<filiere>GINF2</filiere>
+    	<phone>+(212) 331-62875</phone>
+    	<email>lookman ossam.sana@gmail.com</email>
+	</student>
+	<student>
+    	<cne>IZ370016</cne>
+    	<dateofbirth>5/14/1998</dateofbirth>
+    	<firstname>TAALI</firstname>
+    	<lastname>HOUDA</lastname>
+    	<filiere>GINF2</filiere>
+    	<phone>+(212) 442-30733</phone>
+    	<email>houda.taali@gmail.com</email>
+	</student>
+	<student>
+    	<cne>FI790335</cne>
+    	<dateofbirth>3/19/1999</dateofbirth>
+    	<firstname>ZENAGUI</firstname>
+    	<lastname>RABIA</lastname>
+    	<filiere>GINF2</filiere>
+    	<phone>+(212) 224-07593</phone>
+    	<email>rabia.zenagui@gmail.com</email>
+	</student>
+
+</stud_GINF2>
