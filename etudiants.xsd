@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified"> 
+    <xs:element name = "stud_AP1">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name = "student" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name = "cne" type = "xs:ID" />
+                            <xs:element name="dateofbirth" type="xs:string"/>
+                            <xs:element name = "firstname" type = "xs:string" />
+                            <xs:element name = "lastname" type = "xs:string" />
+                            <xs:element name="filiere" type="filiere_type"/>
+                            <xs:element name="phone" type="xs:string"/>
+                            <xs:element name="email" type="xs:string"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:simpleType name="filiere_type">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="GINF"/>
+            <xs:enumeration value="GIND" />
+            <xs:enumeration value="GSTR" />
+            <xs:enumeration value="G3EI" />
+            <xs:enumeration value="GSEA" />
+            <xs:enumeration value="AP1" />
+            <xs:enumeration value="AP2" />
+        </xs:restriction>
+    </xs:simpleType>
+</xs:schema>
